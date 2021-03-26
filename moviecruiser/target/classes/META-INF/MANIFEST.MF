@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: moviecruiser
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: Mandar Kolhatkar
+Implementation-Vendor-Id: com.cognizant
+Build-Jdk: 1.8.0_281
+Implementation-URL: https://spring.io/projects/spring-boot/moviecruise
+ r
+Created-By: Maven Integration for Eclipse
+
